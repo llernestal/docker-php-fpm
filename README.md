@@ -1,1 +1,4 @@
-# docker-php-fpm
+docker-php-fpm
+--------------
+
+Dockerfile for PHP-FPM on Ubuntu.
